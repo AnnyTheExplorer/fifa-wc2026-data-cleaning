@@ -9,6 +9,7 @@ This project takes a raw Kaggle dataset of FIFA World Cup 2026 player records, d
 ## The Dataset
 
 **Source:** FIFA World Cup 2026 Player Performance dataset (Kaggle), selected-columns version.
+**Raw Data:** [FIFA World Cup 2026 Player Performance](https://www.kaggle.com/datasets/rauffauzanrambe/fifa-world-cup-2026-player-performance-dataset/data)
 
 - **Columns:** `player_id`, `player_name`, `age`, `nationality`, `team`, `jersey_number`, `position`, `height_cm`, `weight_kg`, `preferred_foot`
 - **Raw size:** 54,600 rows across 48 national teams
